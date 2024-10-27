@@ -23,7 +23,7 @@
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
-![Task 5](https://user-images.githubusercontent.com/99810114/221401222-7d436e91-2fdd-4389-8a95-c6ebc7e26300.jpg)
+![task 4](./Image/task4.jpg)
 
 5. Выложить [историю команд](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
 6. Нарисовать [диаграмму](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/UML.drawio), в которой есть класс родительский класс, домашние
