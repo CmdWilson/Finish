@@ -25,7 +25,7 @@
 
 ![task 4](./Image/task4.jpg)
 
-5. Выложить [историю команд](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
+5. Выложить [историю команд]([https://github.com/ILYA-NASA/Kennel_account_system/blob/main/HistoryCommandsUbuntuTerminal.md](https://github.com/CmdWilson/Finish/blob/main/HistoryCommandsUbuntuTerminal.md)) в терминале ubuntu
 6. Нарисовать [диаграмму](https://github.com/ILYA-NASA/Kennel_account_system/blob/main/UML.drawio), в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
