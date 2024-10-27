@@ -19,7 +19,7 @@
 из этого репозитория.
 
 ![task 3.1](./Image/task3_1.jpg)
-![Task 4](https://user-images.githubusercontent.com/99810114/221401211-7563ea97-23dc-4f39-807a-fc6e4a68b598.jpg)
+![task 3.2](./Image/task3_2.jpg)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
